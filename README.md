@@ -1,0 +1,1 @@
+This is the project for The Odin Project to recreate a google search results page.
